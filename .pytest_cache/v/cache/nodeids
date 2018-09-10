@@ -1,0 +1,6 @@
+[
+  "app_test.py::test_index",
+  "app_test.py::test_get_all",
+  "app_test.py::test_get",
+  "app_test.py::test_add"
+]
